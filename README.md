@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on Activities involving computer networks and programming
 - 💬 Ask me about Whatever you want
 - 📫 How to reach me: @ricardomvv
--->
