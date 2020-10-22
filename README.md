@@ -6,7 +6,6 @@
 - 💬 Ask me about Whatever you want
 - 📫 How to reach me:
 
-<br> 
 
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Ricardo's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
