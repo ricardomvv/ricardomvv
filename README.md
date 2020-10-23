@@ -1,5 +1,7 @@
 ### Hi there 👋,my name is Ricardo Varela
 
+<b><i>" When someone points a gun to your head, the question is not whether to surrender or be killed. You still have 146 more ways to get out of this situation "</b></i>
+
 - 🔭 I’m currently working on PoP-RN/RNP
 - 🌱 I’m currently learning Network Computer
 - 👯 I’m looking to collaborate on Activities involving computer networks and programming
