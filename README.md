@@ -15,13 +15,13 @@
 <a href="https://twitter.com/ricardomvv">
   <img align="left" alt="Ricardo Varela | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ricardomvv/">
+<a href="https://www.linkedin.com/in/ricardomvv">
   <img align="left" alt="Ricardo's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/abhisheknaiidu">
   <img align="left" alt="Ricardo's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/ricardomvv_/">
+<a href="https://www.instagram.com/ricvarela">
   <img align="left" alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user/geekyabhi/">
