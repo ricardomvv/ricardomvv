@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/ricvarela">
   <img align="left" alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
+<a href="https://www.reddit.com/user/ricardomvv">
   <img align="left" alt="Ricardo's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
