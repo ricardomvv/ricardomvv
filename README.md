@@ -9,8 +9,8 @@
 - 📫 How to reach me:
 
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Ricardo's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.com">
+  <img align="left" alt="ricardomvv #2493" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/ricardomvv">
   <img align="left" alt="Ricardo Varela | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
