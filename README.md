@@ -2,8 +2,8 @@
 
 <b><i>" When someone points a gun to your head, the question is not whether to surrender or be killed. You still have 146 more ways to get out of this situation "</b></i>
 
-- 🔭 I worked at PoP-RN as an intern in Computer Networks.
-- 🌱 I have a degree in Science and Technology with an emphasis on Computing.
+- 🔭 I worked at PoP-RN as an intern in Computer Networks
+- 🌱 I have a degree in Science and Technology with an emphasis on Computing
 - 👯 I’m looking to collaborate on Activities involving computer networks and programming
 - 💬 Ask me about Whatever you want
 - 📫 How to reach me:
