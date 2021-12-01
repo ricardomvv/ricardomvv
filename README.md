@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil 👋,me chamo é Ricardo Varela
+### Bem vindo ao meu perfil 👋,me chamo Ricardo Varela
 
 <b><i>" Quando alguém aponta uma arma para sua cabeça, a questão não é se você deve se render ou ser morto. Você ainda tem 146 maneiras de sair dessa situação "</b></i>
 
