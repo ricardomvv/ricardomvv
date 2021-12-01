@@ -3,7 +3,7 @@
 <b><i>" Quando alguém aponta uma arma para sua cabeça, a questão não é se você deve se render ou ser morto. Você ainda tem 146 maneiras de sair dessa situação "</b></i>
 
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação na UFRN;
-- 🔭 Já trabalhei na RNP/PoP-RN, fazendo um estágio como Analista de Redes;
+- 🔭 Já trabalhei na RNP/PoP-RN, fazendo estágio como Analista de Redes;
 - 👩‍💻 Atualmente, concetro os meus esforços em atividades envolvendo Qualidade e Testes de Software;
 - 💬 Me pergunte sobre o que quiser;
 - 📫 Como me encontrar:
