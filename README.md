@@ -4,7 +4,7 @@
 
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação na UFRN;
 - 🔭 Já trabalhei na PoP-RN/RNP, fazendo estágio como Analista de Redes;
-- 👩‍💻 Atualmente, concetro os meus esforços em atividades envolvendo Qualidade e Testes de Software;
+- 👩‍💻 Atualmente, concentro os meus esforços em atividades envolvendo Qualidade e Testes de Software;
 - 💬 Me pergunte sobre o que quiser;
 - 📫 Como me encontrar:
 <br>
