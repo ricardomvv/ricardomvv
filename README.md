@@ -13,5 +13,4 @@
 
 <br />
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomvv&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomvv&layout=compact)](https://github.com/ricardomvv/github-readme-stats)
-
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomvv&theme=chartreuse-dark&show_icons=true) 
