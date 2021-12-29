@@ -2,7 +2,7 @@
 
 <b><i>" Quando alguém aponta uma arma para sua cabeça, a questão não é se você deve se render ou ser morto. Você ainda tem 146 maneiras de sair dessa situação "</b></i>
 
-- 📚 Técnico em Tecnologia da Informação pelo Instituto Metrópole Digital - IMD;
+- 📚 Técnico em Tecnologia da Informação pelo Instituto Metrópole Digital - IMD/UFRN;
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte (UFRN);
 - 💼 Já trabalhei no PoP-RN/RNP, fazendo estágio como Analista de Redes;
 - 👩‍💻 Atualmente, concentro os meus esforços e estudos em atividades envolvendo Qualidade e Testes de Software;
