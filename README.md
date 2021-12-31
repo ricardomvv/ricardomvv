@@ -5,7 +5,7 @@
 - 📚 Técnico em Tecnologia da Informação pelo Instituto Metrópole Digital - IMD/UFRN;
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte - UFRN;
 - 💼 Já trabalhei no PoP-RN/RNP, fazendo estágio como Analista de Redes;
-- 👩‍💻 Atualmente, concentro os meus esforços e estudos em atividades envolvendo Qualidade e Testes de Software;
+- 👩‍💻 Atualmente, concentro os meus estudos e esforços em atividades envolvendo Qualidade e Testes de Software;
 - 💬 Me pergunte sobre o que quiser;
 - 📫 Como me encontrar:
 <br>
