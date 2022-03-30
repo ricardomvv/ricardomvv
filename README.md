@@ -4,7 +4,7 @@
 
 - 📚 Técnico em Tecnologia da Informação pelo Instituto Metrópole Digital - IMD/UFRN;
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte - UFRN;
-- 💼 Analista de Testes de Software/QA na WarmUP Consulting;
+- 💼 Analista de Qualidade de Software na WarmUP Consulting;
 - 👩‍💻 Profissional da área de Qualidade e Testes de Software;
 - 💬 Me pergunte sobre o que quiser;
 - 📫 Como me encontrar:
