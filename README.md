@@ -7,7 +7,7 @@
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte - UFRN;
 - 💼 Analista de Qualidade de Software na WarmUP Consulting;
 - 👩‍💻 Profissional da área de Qualidade e Testes de Software;
-- 💬 Alguma dúvida, entre em contato comigo.
+- 💬 Alguma dúvida, entre em contato comigo. 👇
 - 📫 Como me encontrar:
 <br>
 
