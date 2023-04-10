@@ -5,7 +5,7 @@
 - 💻 MBA em Engenharia de Software na Universidade Tecnológica Federal do Paraná - UTFPR; (⌛)
 - 📚 Técnico em Tecnologia da Informação pelo Instituto Metrópole Digital - IMD/UFRN;
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte - UFRN;
-- 💼 Analista de Qualidade de Software na WarmUP Consulting;
+- 💼 Analista de Automação de Testes de Software na WarmUP Consulting;
 - 👩‍💻 Profissional da área de Qualidade e Testes de Software;
 - 💬 Qualquer dúvida, entre em contato comigo. 👇
 - 📫 Como me encontrar:
