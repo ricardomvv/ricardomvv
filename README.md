@@ -2,7 +2,7 @@
 
 <b><i>" Quando alguém aponta uma arma para sua cabeça, a questão não é se você deve se render ou ser morto. Você ainda tem 146 maneiras de sair dessa situação "</b></i>
 
-- 💻 Pós Graduação, MBA em Engenharia de Software na Universidade Tecnológica Federal do Paraná - UTFPR; (⌛)
+- 💻 Pós Graduação em Engenharia de Software na Universidade Tecnológica Federal do Paraná - UTFPR; (⌛)
 - 📚 Técnico em Tecnologia da Informação pelo Instituto Metrópole Digital - IMD/UFRN;
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte - UFRN;
 - 💼 Analista de Automação de Testes de Software na @WarmUP Consulting;
