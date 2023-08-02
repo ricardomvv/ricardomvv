@@ -2,11 +2,11 @@
 
 <b><i>" Quando alguém aponta uma arma para sua cabeça, a questão não é se você deve se render ou ser morto. Você ainda tem 146 maneiras de sair dessa situação "</b></i>
 
-- 🏅 Profissional com certificações internacionais de testes pela ISTQB: <b>CTFL, CTFL-AT</b>;
-- 💻 MBA em Engenharia de Software na Universidade Tecnológica Federal do Paraná - UTFPR; (⌛)
-- 📚 Técnico em Tecnologia da Informação pelo Instituto Metrópole Digital - IMD/UFRN;
+- 💻 MBA em Engenharia de Software na Universidade Tecnológica Federal do Paraná - UTFPR;
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte - UFRN;
-- 👩‍💻 Analista de Automação de Testes de Software na @WarmUP Consulting;
+- 📚 Técnico em Tecnologia da Informação pelo Instituto Metrópole Digital - IMD/UFRN;
+- 👩‍💻 Test Automation Developer | @WarmUP Consulting;
+- 🏅 Profissional com certificações internacionais de testes ISTQB: CTFL, CTFL-AT;
 - 💬 Qualquer dúvida, entre em contato comigo. 👇
 - 📫 Como me encontrar:
 <br>
