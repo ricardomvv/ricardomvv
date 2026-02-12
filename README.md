@@ -11,7 +11,7 @@
 
 📫 Contate-me: ricardomvvarela@gmail.com
 
-<br />
+<br/>
 
 <div>
   <a href="https://github.com/ricardomvv">
